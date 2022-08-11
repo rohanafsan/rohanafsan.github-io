@@ -24,6 +24,7 @@ function App() {
       <ul>
       <li><a href="https://www.linkedin.com/in/mirafsan/">linkedIn</a></li>
       <li><a href="http://github.com/rohanafsan">github</a></li>
+      <li><a href="resume.pdf">résumé</a></li>
 
       </ul>
       </div>
