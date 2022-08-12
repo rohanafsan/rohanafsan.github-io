@@ -1,4 +1,4 @@
-import logo from './logo.svg';
+import logo from './logo.png';
 import './App.css';
 import Typed from 'react-typed';
 import FadeIn from 'react-fade-in';
@@ -24,8 +24,6 @@ function App() {
       <ul>
       <li><a href="https://www.linkedin.com/in/mirafsan/">linkedIn</a></li>
       <li><a href="http://github.com/rohanafsan">github</a></li>
-      <li><a href="resume.pdf">résumé</a></li>
-
       </ul>
       </div>
       </FadeIn>
